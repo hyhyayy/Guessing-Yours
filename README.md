@@ -55,9 +55,7 @@ int main() {
   cout << "-----------------------------------------------------------" << endl;
 
   cout << "Once you got the answer, I want you to subtract the number that you "
-          "think at first "
-       << endl
-       << endl;
+          "think at first "<< endl << endl;
 
   ans = A + B + C + D;
 
